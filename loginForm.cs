@@ -43,6 +43,7 @@ namespace Project
             mainForm main = new mainForm();
             this.Dispose();
             main.ShowDialog();
+
         }
     }
 }
